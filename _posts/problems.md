@@ -1,7 +1,7 @@
 ---
-title: "A short guide to solving problems"
+title: "First post1"
 layout: post
-date: 2018-02-12
+date: 2017-04-24
 tags: announcement
 comments: true
 ---
