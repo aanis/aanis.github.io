@@ -1,7 +1,7 @@
 ---
 title: "A-short-guide-to-solving-problems"
 layout: page
-date:
+date: Feb,12 2019
 tags: announcement
 comments: true
 active: blog
