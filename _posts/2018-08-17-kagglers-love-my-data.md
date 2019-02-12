@@ -1,6 +1,6 @@
 ---
 title: "First"
-layout: blog
+layout: page
 date: 2017-04-24
 tags: announcement
 comments: true
