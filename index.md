@@ -14,7 +14,7 @@ After graduating in 2011, I felt a burnout from the stress of trading (high leve
 
 I really enjoyed learning new technologies, coding and socializing with my nerdy peers. I had finally found my [Ikigai](https://upload.wikimedia.org/wikipedia/commons/1/18/Ikigai-EN.svg). After working for a few years, I decided to go for my masters in Information Systems and Decision Sciences at California State University in Fullerton. I was living in Orange County, near the beach and loving every minute of my graduate coursework.
 
-After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working as Head Data Scientist and Manager of Data Science for the Government of Punjab. During this time I also became Dean of Lahore School of AI and started my own AI firm.
+After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working as Head Data Scientist and Manager of Data Science for the Government. During this time I also became Dean of Lahore School of AI and started my own AI firm.
 
 I have led and successfully completed data science projects with business intelligence, data warehouse, network analysis, machine learning and deep learning components. I like learning new technologies and a big fan of open source projects. In my free time I am either catching on REM sleep, playing with my dog, watching the UFC and powerlifting at a local gym near you!
 
