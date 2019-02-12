@@ -14,10 +14,6 @@ If there is one universal aspect to human life; it is to solve problems. Our bra
 
 Problems can be represented by the magnitude of difficulty and the period of time required to solve them. As the time frame of a problem increases so does its complexity. In to better understand any problem we need to know its underlying reasoning.
 
-<p align="center">
-  <img src="https://imgur.com/a/wTpMg0B.png" />
-</p>
-
 ### Autopilot Reasoning
 
 Simple problems like cooking or driving to work are easy problems which are solved on autopilot. They do not require any abstract thinking.
