@@ -1,7 +1,7 @@
 ---
-title: "First"
+title: "A-short-guide-to-solving-problems"
 layout: page
-date: 2017-04-24
+date:
 tags: announcement
 comments: true
 active: blog
