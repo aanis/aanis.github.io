@@ -26,11 +26,11 @@ baseurl: / # the subpath of your site, e.g. /blog
 url: https://lahorekid.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social media usernames
-github_username:    rgriff23
-researchgate_username: Randi_Griffin
-linkedin_username:    randigriffin
-kaggle_username:    heesoo37
-twitter_username:     HeesooRandi
+github_username:    lahorekid
+researchgate_username: 
+linkedin_username:    aanis
+kaggle_username:    ac2005
+twitter_username:     lahorekid
 
 markdown: kramdown
 
