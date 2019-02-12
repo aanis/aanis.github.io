@@ -1,5 +1,5 @@
 ---
-title: "A-short-guide-to-solving-problems"
+title: "A short guide to solving problems"
 layout: page
 date: 2017-04-24
 tags: announcement
