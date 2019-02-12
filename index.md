@@ -16,7 +16,7 @@ I really enjoyed learning new technologies, coding and socializing with my nerdy
 
 After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working as Head Data Scientist and Manager of Data Science for the Government of Punjab. During this time I also became Dean of Lahore School of AI and started my own AI firm.
 
-I have led and successfully completed data science projects with business intelligence, data warehouse, network analysis, machine learning and deep learning components. I like learning new technologies and a big fan of open source projects. Feel free to reach out to me at my social media from the left sidebar <-
+I have led and successfully completed data science projects with business intelligence, data warehouse, network analysis, machine learning and deep learning components. I like learning new technologies and a big fan of open source projects. In my free time I am either catching on REM sleep, playing with my dog, watching the UFC and powerlifting at a local gym near you!
 
 The journey continues...
 
