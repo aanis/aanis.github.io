@@ -1,10 +1,10 @@
 ---
-title: "First post1"
-layout: post
+title: "First"
+layout: blog
 date: 2017-04-24
 tags: announcement
 comments: true
-active: post
+active: blog
 ---
 
 ## Introduction
