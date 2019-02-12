@@ -4,6 +4,7 @@ layout: post
 date: 2017-04-24
 tags: announcement
 comments: true
+active: post
 ---
 
 ## Introduction
