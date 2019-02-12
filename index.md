@@ -8,8 +8,17 @@ active: about
 
 ___
 
-I recently joined [KAYAK](https://www.kayak.com/) as a data scientist on the performance marketing team. Before that, I was a Fellow at [Insight Data Science](https://www.insightdatascience.com/), a 7-week program designed to help recent PhDs land industry data science jobs (it worked!). I got my PhD in [Evolutionary Anthropology](https://evolutionaryanthropology.duke.edu/) from Duke University, where my research focused on the ecology and evolution of primate morphology, behavior, and infectious disease. 
+My data science journey started unknowingly in 2008 when I enrolled as an undergraduate at Indiana University. I choose to study economics because I was trading in stocks and options at the time and thought my major should complement my extra-curricular activities. I was barely paying attention in classes as I was always trading between the hours of 9:30am and 4pm EST.
 
-I'm always on the lookout for exciting opportunities to apply and expand my data science skills. In addition, I'm passionate about paying it forward through outreach, mentorship, and pro bono work. Interested in talking or collaborating? Feel free to [fork me](https://github.com/rgriff23) on GitHub, [connect](https://www.linkedin.com/in/randigriffin) on LinkedIn, or shoot me an e-mail! 
+After graduating in 2011, I felt a burnout from the stress of trading (high leverage positions and poor college student do not mix well!) and decided to move to California to make up for the lost sunshine. The most enjoyable aspect of trading was the research I had to do, reading SEC filings, and crunching financial number from Bloomberg reports. Luckily, I got a job at a tech firm in Gardena, CA and after orientation choose to work as a data analyst. 
 
-**[Last updated: Jan 20, 2019]**
+I really enjoyed learning new technologies, coding and socializing with my nerdy peers. I had finally found my [Ikigai](https://upload.wikimedia.org/wikipedia/commons/1/18/Ikigai-EN.svg). After working for a few years, I decided to go for my masters in Information Systems and Decision Sciences at California State University in Fullerton. I was living in Orange County, near the beach and loving every minute of the graduate coursework.
+
+After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working a Head Data Scientist and Manager of Data Science for the Government of Punjab. I became Dean of Lahore School of AI and started my own AI firm.
+
+I like learning new technologies and a big fan of open source projects. Feel free to reach out to me at my social media apps from the sidebar. 
+
+The journey continues...
+
+
+**[Last updated: Feb 12, 2019]**
