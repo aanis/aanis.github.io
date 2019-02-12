@@ -225,10 +225,10 @@ blockquote p:last-child {
     padding-left: 1.25rem;
   }
 }
-
+/* PROFILE IMAGE */
 img {
   display: block;
-  max-width: 50%;
+  max-width: 75%;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
