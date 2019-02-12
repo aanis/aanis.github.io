@@ -4,9 +4,7 @@ layout: post
 date: 2017-04-24
 tags: announcement
 comments: true
-active: blog
 ---
-
 
 ## Introduction
 If there is one universal aspect to human life; it is to solve problems. Our brains our computers which use the input from our five senses to generate an output (action: movement, speech) which helps us navigate the world. In simple words, humans are problem solving machines. We have been genetically programmed to solve problems in order to survive the harsh realities of nature.
