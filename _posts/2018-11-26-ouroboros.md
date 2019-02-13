@@ -3,13 +3,11 @@ title: "The Ouroboros"
 layout: page
 date: 2018-11-26
 tags: announcement
-comments: true
 active: blog
 ---
 
 ![](https://cdn-images-1.medium.com/max/2560/1*FQZrnrGN0HScRxmjAOx0GA.jpeg)
-<span class="figcaption_hack">*The ouroborosis an ancient egyptian symbol depicting a serpent or dragon eating
-its own tail.*</span>
+<span class="figcaption_hack"></span>
 
 Existence is a straightforward construct. You are born into this world, thrust
 into life without a choice. You live for a few decades and pass into the void
