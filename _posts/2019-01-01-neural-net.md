@@ -83,4 +83,4 @@ tanh, relu) which converts our **Y** of 3.3 into **A** of 0.96.
 Now we can make a binary classification depending on the threshold of the the
 value we calculated.
 
-*****
+
