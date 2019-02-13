@@ -25,8 +25,8 @@ We will be using Python 3 (the latest iteration)
 *****
 
 > For this lesson we wont be installing and IDE on our computer. We will use an
-> online IDE to compile our code. For that please click**
-**[HERE](https://www.tutorialspoint.com/execute_python_online.php)
+> online IDE to compile our code. For that please click
+**[HERE](https://www.tutorialspoint.com/execute_python_online.php)**
 
 *****
 
