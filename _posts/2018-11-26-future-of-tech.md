@@ -1,6 +1,6 @@
 ---
 title: "The future of technology"
-layout: page
+layout: post
 date: 2018-11-26
 tags: future
 active: blog
