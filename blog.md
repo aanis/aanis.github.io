@@ -79,3 +79,5 @@ active: blog
 [**A short guide to solving problems**](/_posts/2017-04-24-problems.md)
 
 [**Oh hi mark!**](/_posts/2000-01-01-mark.md)
+
+[**test**](/_posts/test.md)
