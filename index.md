@@ -14,7 +14,7 @@ After graduating in 2011, I felt a burnout from the stress of trading (from high
 
 I really enjoyed learning new technologies, coding and socializing at happy hours with my co-workers. It was a happy moment in my life, I had stumbled on my [Ikigai](https://upload.wikimedia.org/wikipedia/commons/1/18/Ikigai-EN.svg). After working for a few years, I decided to go for my masters in Information Systems and Decision Sciences at California State University in Fullerton. What more could I ask; I was living in Orange County, near the beach, playing poker on the weekends and loving every minute of my graduate coursework.
 
-After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working as Head Data Scientist and Manager of Data Science for the Government. During this time I also became Dean for [School of AI]() and started my own AI firm [Hyperleap](http://hyperleap.ai)
+After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working as Head Data Scientist and Manager of Data Science for the Government. During this time, I also became Dean for [School of AI](https://github.com/lahorekid/lahorekid.github.io/blob/master/assets/pdfs/CV.pdf) and started my own AI firm [Hyperleap](http://hyperleap.ai)
 
 On my data science journey, I have led teams and completed projects with business intelligence, data warehouse, network analysis, machine learning and deep learning components. I like learning new technologies and am a big fan of open source projects. In my free time I am either catching on REM sleep, playing with my dog, watching the UFC or powerlifting at my local gym. 
 
