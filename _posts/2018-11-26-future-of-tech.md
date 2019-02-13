@@ -3,9 +3,9 @@ title: "The future of technology"
 layout: page
 date: 2018-11-26
 tags: future
-comments: true
 active: blog
 ---
+![](https://cdn-images-1.medium.com/max/800/1*iyLZZaeea8i5HONiIDjhig.jpeg)
 
 To see our collective evolution we just have to peer through the ages;
 Paleolithic, Neolithic, Bronze, Iron, Middle, Renaissance, Industrial and today,
