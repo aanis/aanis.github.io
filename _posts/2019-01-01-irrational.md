@@ -106,4 +106,4 @@ there is a lack of evidence because certainty provides comfort and uncertainty
 causes existential anxiety. This is why I contend, that as a species, we are
 still in the infantile stage of both our cognitive and social evolution.
 
-*****
+
