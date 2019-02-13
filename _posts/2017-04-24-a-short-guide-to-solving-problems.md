@@ -2,7 +2,7 @@
 title: "A short guide to solving problems"
 layout: page
 date: 2017-04-24
-tags: announcement
+tags: guide
 comments: true
 active: blog
 ---
