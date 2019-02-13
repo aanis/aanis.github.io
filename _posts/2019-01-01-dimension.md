@@ -28,8 +28,8 @@ happened at the quantum scale.
 
 ### Enter the Standard Model
 
-The standard model in particle physics explains three of the* *four* *known
-fundamental forces *(excluding gravity)* in the universe which includes
+The standard model in particle physics explains three of the four known
+fundamental forces (excluding gravity) in the universe which includes
 electromagnetism and weak and strong nuclear forces. It has allowed us to find
 quarks, higgs boson and neutrinos which is further demystifying the secrets of
 the quantum world.
@@ -55,7 +55,7 @@ equations seem to be only solved once we go higher from the 4th dimension.
 In 1993 physicist Gerard ‘t Hooft postulated the [“Hologrpahic
 Principle”](https://en.wikipedia.org/wiki/Holographic_principle) stating,
 *“Information about an extra dimension is visible as a curvature in a spacetime
-with one fewer dimension”. *For instance a hologram is a 3D picture placed on a
+with one fewer dimension”*. For instance a hologram is a 3D picture placed on a
 2D surface which gives illusion of curvature when an observer changes his
 viewpoint. Similarly, Hooft belives that fabric of space-time is really
 5-dimensional.
@@ -93,23 +93,23 @@ prove if there are indeed higher dimensions.
 **By adding a right-angle to a dimension you create a new dimension. Each new
 dimension is orthogonal to the previous direction.**
 
-**Dimension-1: **The first dimension is length, a straight-line is a perfect
+**Dimension-1:** The first dimension is length, a straight-line is a perfect
 example.
 
 **Dimension-2:** Simply add a right-angle to your line and now you have height.
 A good example is a circle, square or triangle.
 
-**Dimension-3: **Add another right-angle and you will add depth to the square or
+**Dimension-3:** Add another right-angle and you will add depth to the square or
 triangle. Now we have a sphere, cube or pyramid.
 
-**Dimension-4: **The fourth dimension is a direction in 3-dimensional space.
+**Dimension-4:** The fourth dimension is a direction in 3-dimensional space.
 Simply known as Time. A tesseract or hypercube is an example of a 4-dimensional
 object unfortunately we cannot create or visualize it in our 3D space.
 
 ![](https://cdn-images-1.medium.com/max/800/1*LGj_1Srkl74hXtlCyR2MDQ.gif)
-<span class="figcaption_hack">Closest representation of a tesseract</span>
+<span class="figcaption_hack">*Closest representation of a tesseract*</span>
 
-**Dimension-5: **So what is orthogonal to Time? This where things get
+**Dimension-5:** So what is orthogonal to Time? This where things get
 interesting. In the 5th dimension we would call time “Imaginary Time”. Stephen
 Hawking explains this in his essay [“The Beginning of
 Time”](http://www.hawking.org.uk/the-beginning-of-time.html) with the following
@@ -151,7 +151,7 @@ up much smaller than a atom’s nucleus. In super-string theory this is
 represented by the Calabi–Yau space.
 
 ![](https://cdn-images-1.medium.com/max/800/1*5IsQhhmm56zQmTd4D17fig.gif)
-<span class="figcaption_hack">Calabi–Yau space</span>
+<span class="figcaption_hack">*Calabi–Yau space*</span>
 
 Today, scientists are studying gravitational waves and light from the collision
 of two neutrino stars 130 million light year ago
