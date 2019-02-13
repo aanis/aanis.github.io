@@ -1,5 +1,5 @@
 ---
-title: "# Why blockchain is the best voting solution for overseas Pakistanis"
+title: "Why blockchain is the best voting solution for overseas Pakistanis"
 layout: post
 date: 2018-01-01
 tags: announcement
