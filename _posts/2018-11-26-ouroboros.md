@@ -1,6 +1,6 @@
 ---
 title: "The Ouroboros"
-layout: page
+layout: post
 date: 2018-11-26
 tags: announcement
 active: blog
