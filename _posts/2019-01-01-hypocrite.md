@@ -42,4 +42,4 @@ In conclusion, hypocrisy is rampant in all societies across the world. Maybe in
 the future we can construct a mirror to view our thoughts like we view our
 faces. And maybe then, we will finally be able to look at our own hypocrisies.
 
-*****
+
