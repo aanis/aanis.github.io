@@ -91,5 +91,4 @@ we changes the weights in the neurons while the gradient descent algorithm
 optimizes the error of the cost function. In deep neural nets we use gradient
 descent and backpropagation in tandem to create the best models.
 
-*****
 
