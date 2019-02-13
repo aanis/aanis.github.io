@@ -7,12 +7,6 @@ comments: true
 active: blog
 ---
 
-
-# The future of technology
-
-![](https://cdn-images-1.medium.com/max/800/1*hbcEiE3ewR5rr7dchEoJiQ.jpeg)
-<span class="figcaption_hack"></span>
-
 To see our collective evolution we just have to peer through the ages;
 Paleolithic, Neolithic, Bronze, Iron, Middle, Renaissance, Industrial and today,
 the Information Age. Every new invention birthed a new age, ergo the Internet
