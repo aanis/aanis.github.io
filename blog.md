@@ -11,4 +11,4 @@ active: blog
 
 ### Miscellaneous
 
-[**Oh hi mark!**](/_posts/2017-01-24-mark)
+[**Oh hi mark!**](/_posts/2017-01-24-mark.md)
