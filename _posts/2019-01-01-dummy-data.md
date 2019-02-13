@@ -6,8 +6,6 @@ tags: announcement
 ---
 
 
-![](https://cdn-images-1.medium.com/max/800/1*ZL2cfrAvUtsXyIHJ_vHohg.gif)
-
 Deploying a neural network is an arduous process. One of the most important
 stages in developing a neural net is to first normalize the data. In this guide,
 I will explain **why is normalization important,and finally how to
@@ -34,7 +32,7 @@ Education, Marital Status and Religion**
 
 ### **Question: Why is normalization important?**
 
-**Answer: **We have to normalize our data because our features do not have a
+**Answer:** We have to normalize our data because our features do not have a
 uniform scale.
 
 Most, if not all classifiers in machine learning calculate the Euclidean
@@ -47,7 +45,7 @@ features to remove any bias in our model. Also normalized data converges faster
 during backpropogation.
 
 ![](https://cdn-images-1.medium.com/max/800/1*PQ7T05W7qZU8fxLQbdkOSA.png)
-<span class="figcaption_hack">Euclidean space</span>
+<span class="figcaption_hack"></span>
 
 *****
 
@@ -111,11 +109,9 @@ If we have non-binary categorical data we can used Manhattan encoding which uses
 
 *Muslim as a scalar of* **[ 1 0 0 ]**
 
-*Hindu as a scalar ***[ 0 1 0 ]**
+*Hindu as a scalar* ***[ 0 1 0 ]**
 
 *Christian as a scalar* **[ 0 0 1 ]**
-
-*****
 
 > Pro Tip: Use
 > [StandardScaler](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
