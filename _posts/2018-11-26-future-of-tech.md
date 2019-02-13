@@ -1,5 +1,5 @@
 ---
-title: "The Future of Technology"
+title: "The future of technology"
 layout: page
 date: 2018-11-26
 tags: future
@@ -8,7 +8,7 @@ active: blog
 ---
 
 
-# The Future of Technology
+# The future of technology
 
 ![](https://cdn-images-1.medium.com/max/800/1*hbcEiE3ewR5rr7dchEoJiQ.jpeg)
 <span class="figcaption_hack"></span>
