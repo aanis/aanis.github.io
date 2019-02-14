@@ -4,15 +4,15 @@ title: Blog
 active: blog
 ---
 
-### Data Science and Machine Learning
+### Data Science, Machine Learning, Artificial Intelligence
 
 [**Complete zero to hero™ guide to artificial intelligence**](/_posts/2000-01-01-ai-az.md)
 
-[**Who needs hadoop when you got spark kid**](/_posts/2018-08-01-spark-kid.md)
+[**Who needs hadoop when you got spark, kid**](/_posts/2018-08-01-spark-kid.md)
 
-[**Complete AI guide with use cases**](/_posts/2018-08-02-ai-guide.md)
+[**Complete artificial intelligence guide with use cases**](/_posts/2018-08-02-ai-guide.md)
 
-[**Evaluating AI models after training**](/_posts/2018-10-01-ai-models.md)
+[**Evaluating artificial intelligence models after training**](/_posts/2018-10-01-ai-models.md)
 
 [**Cheat sheet for machine learning**](/_posts/2019-01-01-cheat.md)
 
@@ -22,7 +22,7 @@ active: blog
 
 [**A list of the best YouTube channels for data science**](/_posts/2000-01-01-youtube.md)
 
-### Dummies Guide Series
+### Data Science Dummies Guide Series
 
 [**A dummies guide to data normalization**](/_posts/2019-01-01-dummy-data.md)
 
