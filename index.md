@@ -16,7 +16,7 @@ I really enjoyed learning new technologies, coding and socializing at happy hour
 
 After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working as Head Data Scientist and Manager of Data Science for the Government. During this time, I also became Dean for [School of AI](lahorekid.github.io/assets/pdfs/SchoolofAI.pdf) and started my own AI firm [Hyperleap](http://hyperleap.ai).
 
-On my data science journey, I have led teams and completed projects with business intelligence, data warehouse, network analysis, machine learning and deep learning components. I like learning new technologies and am a big fan of open source projects. In my free time I am either catching on REM sleep, playing with my dog, watching the UFC or powerlifting at my local gym. 
+On my data science journey, I have led teams and completed projects with business intelligence, data warehouse, network analysis, machine learning and deep learning components. I like learning new technologies and am a big fan of open source projects. In my free time I am either catching on REM sleep, playing with my dog, watching the UFC, powerlifting at my local gym, writing articles and working on my book. 
 
 The journey continues...
 
