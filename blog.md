@@ -88,4 +88,15 @@ active: blog
 
 [**Oh hi mark!**](/_posts/2000-01-01-mark.md)
 
+### Poetry
+
+[**four-seven-a-a**](/_posts/2000-01-01-poem-47aa.md)
+
+[**desert**](/_posts/2000-01-01-poem-desert.md)
+
+[**joshua tree**](/_posts/2000-01-01-poem-josh.md)
+
+[**a girl**](/_posts/2000-01-01-poem-girl.md)
+
+
 
