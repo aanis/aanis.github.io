@@ -6,7 +6,7 @@ active: blog
 
 ### Data Science, Machine Learning, Artificial Intelligence
 
-[**Complete zero to hero™ guide to artificial intelligence**](/_posts/2000-01-01-ai-az.md)
+[**Complete zero to hero guide to artificial intelligence**](/_posts/2000-01-01-ai-az.md)
 
 [**Who needs hadoop when you got spark, kid**](/_posts/2018-08-01-spark-kid.md)
 
