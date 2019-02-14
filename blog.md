@@ -10,9 +10,9 @@ active: blog
 
 [**Who needs hadoop when you got spark, kid**](/_posts/2018-08-01-spark-kid.md)
 
-[**Complete artificial intelligence guide with use cases**](/_posts/2018-08-02-ai-guide.md)
+[**Complete AI guide with use cases**](/_posts/2018-08-02-ai-guide.md)
 
-[**Evaluating artificial intelligence models after training**](/_posts/2018-10-01-ai-models.md)
+[**Evaluating AI models after training**](/_posts/2018-10-01-ai-models.md)
 
 [**Cheat sheet for machine learning**](/_posts/2019-01-01-cheat.md)
 
