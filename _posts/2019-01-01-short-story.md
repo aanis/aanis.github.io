@@ -12,7 +12,7 @@ I sat in my car and drove to Herbert’s house. Herbert although not a close
 friend, was one of my oldest. We met each other at our chemistry program at the
 prestigious Wells university. I dropped out in the second semester due to poor
 performance in most, if not all of my courses. To this day my parents contend I
-was summarily booted, but I would like to think that chemistry and I just didn't
+was summarily booted, but I would like to think that chemistry and I just don't
 mix.
 
 I parked outside Herbert’s driveway and tooted the horn. My car door flung open
