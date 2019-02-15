@@ -24,7 +24,7 @@ unfortunate accident that caused his invisibility.
 Herbert finally grunted and I was finally at ease. “Speak up, will you
 Herbert!”, I exclaimed emphatically. “You know I cant see you!”. “How many
 invisible people do you know of?”, Herbert replied sarcastically. “Well before
-you none, but now that we know it can be achieved don't you think someone might
+you none, but now that we know its possible don't you think someone might
 have formulated a potion by now?” I retorted mockingly. Herbert did not reply,
 he sighed heavily. I throttled the gas and started driving.
 
