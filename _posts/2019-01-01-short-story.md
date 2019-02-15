@@ -29,8 +29,8 @@ have formulated a potion by now?” I retorted mockingly. Herbert did not reply,
 he sighed heavily. I throttled the gas and started driving.
 
 Predictably, Herbert started rambling about how difficult it was to meet new
-people [women in this matter] with his condition. Although the notion of dating
-someone invisible is quite exciting at first ,by Herbert’s anecdotal accounts,
+people (especially women) with his condition. Although the notion of dating
+someone invisible is quite exciting at first (by Herbert’s account),
 it loses charm rather quickly. Who knew that all relationships would eventually
 boil down to rudimentary fundamentals such as chemistry, compatibility, shared
 world view and values? But as Herbert was blabbering about the unfairness of his
@@ -42,9 +42,8 @@ Although the probability of such bizarre occurrence cannot be computed let alone
 comprehended by a human brain. My deduction was not scientific but rather
 metaphysical. I had been to many social events, gatherings and parties with
 Herbert, but his presence had always been uneventful. If I think hard and long I
-can register he was not absent. He had always either invited me or picked me up.
-But sooner or later, he would dissipate in the background like an ephemeral
-apparition.
+can recall that he was never absent. He had always accompanied me but at the event,
+he would dissipate in the background like an ephemeral apparition.
 
 Herbert was not quiet because he was antisocial or an introvert. He was quiet
 because he was selfish. This theory was concocted by my dear Elizabeth.
@@ -58,4 +57,4 @@ theory grew. Herbert had always been invisible to me. He never wanted to
 earnestly connect. He was never empathetic nor genuine like a good friend ought
 to be.
 
-It was just now, that I could... see him.
+It was just now, that I could see him.
