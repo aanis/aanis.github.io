@@ -31,7 +31,7 @@ he sighed heavily. I throttled the gas and started driving.
 Predictably, Herbert started rambling about how difficult it was to meet new
 people (especially women) with his condition. Although the notion of dating
 someone invisible is quite exciting at first (by Herbert’s account),
-it loses charm rather quickly. Who knew that all relationships would eventually
+it loses its charm rather quickly. Who knew that all relationships would eventually
 boil down to rudimentary fundamentals such as chemistry, compatibility, shared
 world view and values? But as Herbert was blabbering about the unfairness of his
 predicament, I was entirely thinking about something else.
@@ -58,3 +58,4 @@ earnestly connect. He was never empathetic nor genuine like a good friend ought
 to be.
 
 It was just now, that I could see him.
+its 
