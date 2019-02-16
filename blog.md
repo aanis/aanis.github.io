@@ -80,7 +80,7 @@ active: blog
 
 ### Fiction
 
-[**The strange case of Herbert’s invisibility**](/_posts/2019-01-01-short-story.md)
+[**The strange case of Herbert’s invisibility**]
 
 ### Misc
 
