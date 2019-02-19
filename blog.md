@@ -80,7 +80,7 @@ active: blog
 
 ### Fiction
 
-[**The strange case of Herbert’s invisibility**]
+
 
 ### Misc
 
