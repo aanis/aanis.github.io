@@ -1,4 +1,4 @@
-# My personal website
+
 
 Thanks to [Randi Griffin](https://github.com/rgriff23) for generously sharing his repo.
 
