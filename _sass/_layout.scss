@@ -1,0 +1,40 @@
+
+ * Dark Theme
+*/
+html.dark{
+    body {
+        background-color: #333333;
+        color: #eeeeee;
+    }
+    code {
+        color: #333333;
+    }
+
+    .header-name svg{
+        fill: #eeeeee;
+    }
+    .sidebar-segment{
+        background-color: #555555;
+        box-shadow: 0 0px 10px 2px rgba(0, 0, 0, 0.25);
+    }
+
+    .sidebar h2{
+        color: #eeeeee;
+        border-bottom: 1px solid #eeeeee;
+    }
+    #carbonads .carbon-text, .ad-text a {
+        color: #eeeeee;
+    }
+
+    .bookworm path{
+        fill: #97B9CC;
+    }
+
+    .theoretical path{
+        fill: #FAAC1B;
+    }
+
+    .meta-tag, a.meta-tag:visited, a.meta-tag:hover {
+        color: #333333;
+    }
+}
