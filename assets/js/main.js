@@ -1,4 +1,4 @@
-var host = "joebuhlig.com";
+var host = "lahorekid.github.io";
 if ((host == window.location.host) && (window.location.protocol != "https:"))
    window.location.protocol = "https";
 
