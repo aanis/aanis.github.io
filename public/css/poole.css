@@ -63,8 +63,8 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #252a34;
+  color: #D8D8D8;
+  background-color: #2d3539;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #4fb1ba;
   text-rendering: optimizeLegibility;
 }
 h1 {
