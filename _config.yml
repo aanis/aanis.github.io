@@ -34,7 +34,8 @@ twitter_username:     lahorekid
 
 markdown: kramdown
 
-plugins: ['jekyll-twitter-plugin']
+plugins:
+  - jekyll-gist
 
 
 gems:
