@@ -29,13 +29,14 @@ url: https://lahorekid.github.io # the base hostname & protocol for your site, e
 github_username:    lahorekid
 researchgate_username: 
 linkedin_username:    aanis
-kaggle_username:    ac2005
+kaggle_username:    lahorekid
 twitter_username:     lahorekid
 
 markdown: kramdown
 
 gems:
   - jekyll-feed
+  plugins: ['jekyll-twitter-plugin']
 exclude:
   - Gemfile
   - Gemfile.lock
