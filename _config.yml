@@ -39,6 +39,6 @@ plugins: ['jekyll-twitter-plugin']
 gems:
   - jekyll-feed
   
-exclude:
+include:
   - Gemfile
   - Gemfile.lock
