@@ -8,7 +8,6 @@ active: about
 
 ___
 
-My name is Ahsan, I am a data scientist. Hello. Thanks for visiting my website. 
 
 Timeline after high school...
 
