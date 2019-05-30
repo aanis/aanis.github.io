@@ -29,7 +29,7 @@ Timeline after high school...
 
 2015: Data Scientist & Program Manager Analytics for the Governmment
 
-2018: Dean [School of AI](lahorekid.github.io/assets/pdfs/SchoolofAI.pdf)
+2018: Chosen as Dean [School of AI](lahorekid.github.io/assets/pdfs/SchoolofAI.pdf)
 
 2018: Founded artifical intelligence consultancy hyperleap.ai
 
