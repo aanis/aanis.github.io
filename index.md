@@ -8,19 +8,24 @@ active: about
 
 ___
 
-My data science journey started unbeknownst to me in 2008 when I enrolled as an undergraduate at Indiana University. I choose to study economics because I was trading stocks at the time and thought my major should complement my extra-curricular activities. I was barely paying attention in classes as I was always trading between class hours.
+My name is Ahsan, I am a data scientist. Hello. Thanks for visiting my website. 
 
-After graduating in 2011, I felt a burnout from the stress of trading and decided to quit and move to California for a change of landscape. The most enjoyable aspect of trading was the research I had to do, reading SEC filings, and crunching financial number from Bloomberg reports. Luckily soon after arriving to LA, I got a job at [En Pointe Technologies](https://en.wikipedia.org/wiki/En_Pointe_Technologies) and started working as a data analyst at their headquarters near LA.
+Timeline after high school...
 
-I really enjoyed learning new technologies, coding and socializing at happy hours with my co-workers. It was a happy moment in my life, I had stumbled on my [Ikigai](https://upload.wikimedia.org/wikipedia/commons/1/18/Ikigai-EN.svg). After working for a few years, I decided to go for my masters in Information Systems and Decision Sciences at California State University in Fullerton. What more could I ask; I was living in Orange County, near the beach, playing poker on the weekends and loving every minute of my graduate coursework.
+2008: Moved to Bloomington, Indiana
+2008: Enrolled at Indiana University Bloomington
+2011: Graduated with BA Econ
+2011: Moved to Los Angeles, California
+2011: Data Analyst for  En Pointe Technologies
+2013: Enrolled at California State University Fullerton
+2015: Graduated with MS IS 
+2015: Moved to Lahore, Pakistan
+2015: Data Scientist & Program Manager Analytics for the Governmment
+2018: Dean [School of AI](lahorekid.github.io/assets/pdfs/SchoolofAI.pdf)
+2018: Founded artifical intelligence consultancy hyperleap.ai
 
-After graduation, I returned to my home country of Pakistan to spend time with my family after being away for 9 years. During this time, I started working as a Data Scientist and Program Manager of Data Analytics for the Government. During this time, I also became Dean for [School of AI](lahorekid.github.io/assets/pdfs/SchoolofAI.pdf) and started my own artifical intelligence consultancy hyperleap.ai.
-
-I feel I am really lucky because I am an analytical and scientific thinker by nature and I get paid to think like a scientist.
-
-P.S.
-
-In my free time I am either catching on REM sleep, playing with my german shepherd, watching the UFC, powerlifting at my local gym, reading or writing.
 
 
-**[Last updated: Feb 12, 2019]**
+
+
+
