@@ -21,17 +21,17 @@ Timeline after high school...
 
 2011: Data Analyst at En Pointe Technologies
 
-2013: Enrolled at California State University Fullerton
+2014: Enrolled at California State University Fullerton
 
-2015: Graduated with MS Information Systems & Decision Sciences
+2016: Graduated with MS Information Systems & Decision Sciences
 
-2015: Moved to Lahore, Pakistan
+2016: Moved to Lahore, Pakistan
 
-2015: Data Scientist & Program Manager Analytics for the Governmment
+2016: Appointed Data Scientist & Program Manager Analytics for the Governmment
 
 2018: Appointed Dean [School of AI](lahorekid.github.io/assets/pdfs/SchoolofAI.pdf)
 
-2018: Founded artificial intelligence consultancy hyperleap.ai
+ 
 
 
 
