@@ -9,4 +9,4 @@ active: projects
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
-[**Predict Bitcoin Price using LSTM**](/_posts/LSTM.ipynb)
+[**Predict Bitcoin Price using LSTM**](/_posts/2020-01-01-LSTM.ipynb)
