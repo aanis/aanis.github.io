@@ -14,5 +14,12 @@ active: projects
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
-[**Python Crash Course**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
+[**XGBoost Regression and Classification Template **](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/XGBoost%20%282%29.ipynb)
 
+[**Exploring Altair for Data Visualization**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Altair_updated.ipynb)
+
+[**Data Wrangling in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Data_Wrangling.ipynb)
+
+[**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Imputation.ipynb)
+
+[**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
