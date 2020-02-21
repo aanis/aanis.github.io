@@ -14,7 +14,7 @@ active: projects
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
-[**XGBoost Regression and Classification Template **](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/XGBoost%20%282%29.ipynb)
+[**XGBoost Regression and Classification**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/XGBoost%20%282%29.ipynb)
 
 [**Exploring Altair for Data Visualization**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Altair_updated.ipynb)
 
