@@ -14,4 +14,5 @@ active: projects
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
+[**Python Crash Course**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
 
