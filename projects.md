@@ -8,9 +8,13 @@ active: projects
 
 [**Diabetes Classification using Artificial Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/crypto/blob/master/Diabetes.ipynb)
 
-[**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
+[**Object Detection Using Convolutional Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
+
+[**Nude Image Classifier using Convolutional Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
 
 [**Social Network Analysis**](/_posts/2020-01-01-sna.md)
+
+[**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
