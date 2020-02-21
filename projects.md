@@ -6,7 +6,7 @@ active: projects
 
 [**Predict Bitcoin Price using Long Short Term Memory**](https://nbviewer.jupyter.org/github/lahorekid/lahorekid.github.io/blob/master/_posts/2020-01-01-LSTM.ipynb)
 
-[**Diabetes Classification using Artificial Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/crypto/blob/master/Diabetes.ipynb)
+[**Diabetes Classification using Artificial Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Diabetes.ipynb)
 
 [**Object Detection Using Convolutional Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
 
