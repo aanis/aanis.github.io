@@ -10,7 +10,7 @@ active: projects
 
 [**Object Detection Using DarkNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
 
-[**Nude Image Classifier using NudeNet*](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
+[**Nude Image Classifier using NudeNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
 
 [**Social Network Analysis**](/_posts/2020-01-01-sna.md)
 
