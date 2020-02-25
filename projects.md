@@ -8,9 +8,9 @@ active: projects
 
 [**Diabetes Classification using Artificial Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Diabetes.ipynb)
 
-[**Object Detection Using Convolutional Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
+[**Object Detection Using DarkNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
 
-[**Nude Image Classifier using Convolutional Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
+[**Nude Image Classifier using NudeNet*](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
 
 [**Social Network Analysis**](/_posts/2020-01-01-sna.md)
 
@@ -26,4 +26,4 @@ active: projects
 
 [**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Imputation.ipynb)
 
-[**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
+
