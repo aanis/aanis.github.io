@@ -34,6 +34,8 @@ active: blog
 
 [**A dummies guide to python**](/_posts/2019-01-01-dummy-python.md)
 
+[**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
+
 [**A dummies guide to neural net**](/_posts/2019-01-01-neural-net.md)
 
 ### Science
