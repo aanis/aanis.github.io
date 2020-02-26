@@ -9,7 +9,7 @@ active: about
 ___
 
 
-Data Scientist with international public-private management work experience. I have successfully conceptualized, strategized and delivered data science projects with big data, business intelligence, data warehouse, network analysis, social media analytics, machine learning and deep learning components.
+Data Scientist with 9+ years of international public-private management work experience. I have successfully conceptualized, strategized and delivered data science projects with big data, business intelligence, data warehouse, network analysis, social media analytics, machine learning and deep learning components.
 
 Adept at engineering data pipelines for processing and analyzing large and complex structured and unstructured data. Identifying patterns and translating analysis into actionable insights to improve business performance and executive decision making. 
 
