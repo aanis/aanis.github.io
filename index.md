@@ -9,28 +9,11 @@ active: about
 ___
 
 
-Timeline after high school...
+Data Scientist with international public-private management work experience. I have successfully conceptualized, strategized and delivered data science projects with big data, business intelligence, data warehouse, network analysis, social media analytics, machine learning and deep learning components.
 
-2008: Moved to Bloomington, Indiana
+Adept at engineering data pipelines for processing and analyzing large and complex structured and unstructured data. Identifying patterns and translating analysis into actionable insights to improve business performance and executive decision making. 
 
-2008: Enrolled at Indiana University 
-
-2011: Graduated with BA Economics
-
-2011: Moved to Los Angeles, California
-
-2011: Data Analyst at En Pointe Technologies
-
-2014: Enrolled at California State University Fullerton
-
-2016: Graduated with MS Information Systems & Decision Sciences
-
-2016: Moved to Lahore, Pakistan
-
-2016: Appointed Data Scientist & Program Manager Analytics for the Governmment
-
-2018: Appointed Dean [School of AI](lahorekid.github.io/assets/pdfs/SchoolofAI.pdf)
-
+tech stack: python, r, sql, tensorflow, keras, scikit-learn, xgboost, pandas, numpy, networkx, altair, matplotlib, seaborn, plotly, bokeh, jupyter, colab, rstudio, spyder, excel, tableau, big query, github, rapidminer, gephi, forecastpro, powerbi, metabase, superset, phpmysql, teradata sqla, sqlite...
  
 
 
