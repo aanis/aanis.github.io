@@ -15,7 +15,7 @@ Adept at engineering data pipelines for processing and analyzing large and compl
 
 tech stack: python, r, sql, tensorflow, keras, scikit-learn, xgboost, pandas, numpy, networkx, altair, matplotlib, seaborn, plotly, bokeh, jupyter, colab, rstudio, spyder, excel, tableau, big query, github, rapidminer, gephi, forecastpro, powerbi, metabase, superset, phpmysql, teradata sqla, sqlite...
  
-
+ 
 
 
 
