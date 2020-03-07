@@ -8,6 +8,8 @@ active: projects
 
 [**Diabetes Classification using Artificial Neural Network**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Diabetes.ipynb)
 
+[**Generate Text Using GPT-2 Large 774M Model**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/GPT_2.ipynb)
+
 [**Object Detection Using DarkNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
 
 [**Nude Image Classifier using NudeNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
