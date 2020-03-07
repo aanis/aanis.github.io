@@ -14,11 +14,7 @@ active: projects
 
 [**Nude Image Classifier using NudeNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
 
-[**Social Network Analysis**](/_posts/2020-01-01-sna.md)
-
 [**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
-
-[**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
 [**XGBoost Regression and Classification**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/XGBoost%20%282%29.ipynb)
 
@@ -27,5 +23,9 @@ active: projects
 [**Data Wrangling in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Data_Wrangling.ipynb)
 
 [**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Imputation.ipynb)
+
+[**Crime Prediction System**](/_posts/2020-01-01-cis.md)
+
+[**Social Network Analysis**](/_posts/2020-01-01-sna.md)
 
 
