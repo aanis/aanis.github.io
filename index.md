@@ -15,7 +15,7 @@ He has been doing data science for a decade having successfully conceptualized, 
 
 Ahsan has a Bachelor in Economics from Indiana University Bloomington and a Master in Information System and Decision Sciences from California State University Fullerton. 
 
-Ahsan is a science fiction enthusiast, a cinephile and enjoys stoic philosophy and heavy metal music. If you can't find him in front of a computer he is either at the dojo training jiu jitsu or at the gym powerlifitng. If he sees a mountain he will try to climb it.
+Ahsan is a science fiction enthusiast, a cinephile, a connoisseur of heavy metal and enjoys stoic philosophy. If you can't find him in front of a computer he is either at the dojo training jiu jitsu or at the gym powerlifitng. If he sees a mountain he will try to climb it.
 
 He has also written a science fiction book called Year Zero which is set to release in 2021.
  
