@@ -11,9 +11,9 @@ ___
 
 Welcome to the personal website of Ahsan Anis!
 
-Here you will find projects on data science, machine learning, python programming and blogs covering a myriad list of genres. 
+Here you will find projects, blogs and tutorials on data science, machine learning, neural nets, python programming, science and more.
 
-He has been doing data science for a decade having successfully conceptualized, strategized and delivered data science projects with big data, business intelligence, data warehouse, network analysis, social media analytics, machine learning and deep learning components. Also adept at engineering data pipelines for processing and analyzing large and complex structured and unstructured data. Identifying patterns and translating analysis into actionable insights to improve business performance and executive decision making. 
+Ahsan has been doing data science for a decade having successfully conceptualized, strategized and delivered data science projects with big data, business intelligence, data warehouse, network analysis, social media analytics, machine learning and deep learning components for the government and private companies. 
 
 Ahsan has a Bachelor in Economics from Indiana University Bloomington and a Master in Information System and Decision Sciences from California State University Fullerton. 
 
