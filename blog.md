@@ -4,7 +4,7 @@ title: Blog
 active: blog
 ---
 
-### Data Science, Machine Learning, Artificial Intelligence
+### Data Science & Artificial Intelligence
 
 [**Complete AI guide with use cases**](/_posts/2018-08-02-ai-guide.md)
 
@@ -22,7 +22,7 @@ active: blog
 
 [**A list of the best YouTube channels for data science**](/_posts/2000-01-01-youtube.md)
 
-### Science
+### Science & Physics
 
 [**Can a single decision alter the history of the universe?**](/_posts/2019-01-01-decision.md)
 
@@ -40,7 +40,7 @@ active: blog
 
 [**Choose your ideology wisely**](/_posts/2019-01-01-ideology.md)
 
-[**The ouroboros**](/_posts/2018-11-26-ouroboros.md)
+[**The Ouroboros**](/_posts/2018-11-26-ouroboros.md)
 
 ### The Why Series
 
@@ -62,17 +62,11 @@ active: blog
 
 [**Pakistan: The story of a rapidly failing state**](/_posts/2019-01-01-pakistan.md)
 
-[**Is Twitter’s promote mode worth the $99 monthly subscription?**](/_posts/2019-01-01-twitter.md)
+[**A short guide to solving problems**](/_posts/2017-04-24-problems.md)
 
 ###  Blockchain
 
 [**Why blockchain is the best voting solution for overseas Pakistanis**](/_posts/2018-01-01-blockchain.md)
-
-### Misc
-
-[**A short guide to solving problems**](/_posts/2017-04-24-problems.md)
-
-[**Oh hi mark!**](/_posts/2000-01-01-mark.md)
 
 ### Poetry
 
