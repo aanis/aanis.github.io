@@ -16,9 +16,9 @@ active: projects
 
 [**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
 
-[**XGBoost Regression and Classification**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/XGBoost%20%282%29.ipynb)
+[**Using XGBoost for Regression and Classification**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
 
-[**Exploring Altair for Data Visualization**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Altair_updated.ipynb)
+[**Exploring Data Visualization in Altair**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
