@@ -4,7 +4,7 @@ title: About me
 active: about
 ---
 
-<p><h1>Home</h1></p>
+<p><h1>Welcome to the personal website of Ahsan Anis!</h1></p>
 
 ___
 
