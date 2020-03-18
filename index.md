@@ -8,7 +8,7 @@ active: about
 
 ___
 
-Welcome to the website of Ahsan Anis.
+Welcome to the website of Ahsan Anis 
 
 <iframe src="//weheartit.com/widget/entry/304059512/" style="width:500px;height:453px" frameborder="0"></iframe>
 
