@@ -14,6 +14,10 @@ active: tutorial
 
 [**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Imputation.ipynb)
 
+### Kaggle Tutorial
+
+[**Explore Kaggle Dataset using Pandas, Matplotlib and Seaborn**](/_ posts1/2000-01-01-Explore_Kaggle_Datasets_Using_Pandas,_Matplotlib_and_Seaborn.md)
+
 ### Data Science Dummies Guide Series
 
 [**A dummies guide to data normalization**](/_posts/2019-01-01-dummy-data.md)
