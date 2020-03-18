@@ -14,7 +14,7 @@ He you will find a curated list of Blogs, Tutorials and Projects on Data Science
 
 ___
 
-<p><h1>About me</h1></p>
+<p><h1>about me</h1></p>
 
 ___
 
