@@ -16,7 +16,7 @@ active: tutorial
 
 ### Kaggle Tutorial
 
-[**Explore Kaggle Dataset using Pandas, Matplotlib and Seaborn**](/_ posts1/2000-01-01-Explore_Kaggle_Datasets_Using_Pandas,_Matplotlib_and_Seaborn.md)
+[**Explore Kaggle Dataset using Pandas, Matplotlib and Seaborn**](/_posts1/2000-01-01-Explore_Kaggle_Datasets_Using_Pandas,_Matplotlib_and_Seaborn.md)
 
 ### Data Science Dummies Guide Series
 
