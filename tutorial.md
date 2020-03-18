@@ -14,7 +14,7 @@ active: tutorial
 
 ### Kaggle Tutorial
 
-[**Explore Kaggle Dataset using Pandas, Matplotlib and Seaborn**](https://github.com/lahorekid/lahorekid.github.io/blob/master/_%20posts1/2000-01-01-Explore.md)
+[**Explore Kaggle Dataset using Pandas, Matplotlib and Seaborn**](/_%20posts1/2000-01-01-Explore.md)
 
 ### Data Science Dummies Guide Series
 
