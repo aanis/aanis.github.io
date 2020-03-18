@@ -6,13 +6,13 @@ active: blog
 
 ### Data Science, Machine Learning, Artificial Intelligence
 
-[**Complete zero to hero guide to artificial intelligence**](/_posts/2000-01-01-ai-az.md)
-
-[**Who needs hadoop when you got spark, kid**](/_posts/2018-08-01-spark-kid.md)
-
 [**Complete AI guide with use cases**](/_posts/2018-08-02-ai-guide.md)
 
+[**Complete zero to hero guide to artificial intelligence**](/_posts/2000-01-01-ai-az.md)
+
 [**Evaluating AI models after training**](/_posts/2018-10-01-ai-models.md)
+
+[**Who needs hadoop when you got spark, kid**](/_posts/2018-08-01-spark-kid.md)
 
 [**Cheat sheet for machine learning**](/_posts/2019-01-01-cheat.md)
 
@@ -21,22 +21,6 @@ active: blog
 [**A list of the best subreddits for data science**](/_posts/2000-01-01-reddit.md)
 
 [**A list of the best YouTube channels for data science**](/_posts/2000-01-01-youtube.md)
-
-### Data Science Dummies Guide Series
-
-[**A dummies guide to data normalization**](/_posts/2019-01-01-dummy-data.md)
-
-[**A dummies guide to gradient descent and backpropagation**](/_posts/2019-01-01-dummy-grad.md)
-
-[**A dummies guide to the math of AI**](/_posts/2019-01-01-dummy-math.md)
-
-[**A dummies guide to machine learning**](/_posts/2019-01-01-dummy-ml.md)
-
-[**A dummies guide to python**](/_posts/2019-01-01-dummy-python.md)
-
-[**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
-
-[**A dummies guide to neural net**](/_posts/2019-01-01-neural-net.md)
 
 ### Science
 
@@ -83,10 +67,6 @@ active: blog
 ###  Blockchain
 
 [**Why blockchain is the best voting solution for overseas Pakistanis**](/_posts/2018-01-01-blockchain.md)
-
-### Fiction
-
-
 
 ### Misc
 
