@@ -9,7 +9,7 @@ active: about
 ___
 
 
-On this website you will find Blogs, Tutorials and Projects on Data Science, Machine Learning, Deep Learning, Python Programming and much much more.
+On this website you will find Blogs, Tutorials and Projects on Data Science, Machine Learning, Deep Learning, Python Programming and much, much more.
 
 Ahsan enjoys writing, coding and tweeting aphorisms. He is a science fiction enthusiast, a cinephile, a connoisseur of heavy metal and enjoys stoic philosophy. If you can't find him in front of a computer he is either at the gym or the dog park. If he sees a mountain, he will try to climb it.
 
