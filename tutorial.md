@@ -4,8 +4,6 @@ title: Tutorial
 active: tutorial
 ---
 
-# Tutorial
-
 ### Python 3.0 Tutorial
 
 [**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
