@@ -9,7 +9,7 @@ active: about
 ___
 
 
-On this website you will find projects, blogs and tutorials on Data Science, Machine Learning, Deep Learning, Coding and much more!
+On this website you will find Blogs, Tutorials and Projects on Data Science, Machine Learning, Deep Learning, Python Programming and much more!
 
 Ahsan has been playing with data for a decade. He has successfully conceptualized, strategized and delivered data science projects with big data, business intelligence, data warehouse, network analysis, social media analytics, machine learning and deep learning components for the government and private companies.  
 
