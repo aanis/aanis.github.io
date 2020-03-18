@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tutorial
+title: tutorial
 active: tutorial
 ---
 
