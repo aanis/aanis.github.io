@@ -1,3 +1,10 @@
+---
+title: "Explore Kaggle Dataset using Pandas, Matplotlib and Seaborn"
+layout: post
+date: 2000-01-01
+tags: announcement
+---
+
 ```python
 ##install depenencies
 !pip install kaggle
