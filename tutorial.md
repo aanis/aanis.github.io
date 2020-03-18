@@ -1,12 +1,18 @@
 ---
 layout: default
-title: tutorial
+title: Tutorial
 active: tutorial
 ---
+
+# Tutorial
 
 ### Python 3.0 Tutorial
 
 [**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
+
+[**Data Wrangling in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Data_Wrangling.ipynb)
+
+[**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Imputation.ipynb)
 
 ### Data Science Dummies Guide Series
 
