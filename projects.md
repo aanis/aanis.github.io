@@ -16,6 +16,8 @@ active: projects
 
 [**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
 
+[**Exploring Kaggle Datasets in Pandas, Matplotlib and Seaborn**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
+
 [**Using XGBoost for Regression and Classification**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
 
 [**Exploring Data Visualization in Altair**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
