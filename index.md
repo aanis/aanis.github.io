@@ -4,7 +4,7 @@ title: About me
 active: about
 ---
 
-<p><h1>السلام عليكم peace be upon you (plural); good day; hello; hail</h1></p>
+<p><h1>今日は; hello</h1></p>
 
 ___
 
