@@ -8,7 +8,7 @@ active: about
 
 ___
 
-<iframe src="//weheartit.com/widget/entry/304059512/?avatar=1&title=1&subtitle=1" style="width:500px;height:453px" frameborder="0"></iframe>
+<iframe src="//weheartit.com/widget/entry/304059512/" style="width:500px;height:453px" frameborder="0"></iframe>
 
 Welcome to the website of Ahsan Anis.
 
