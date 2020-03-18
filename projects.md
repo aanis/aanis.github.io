@@ -20,10 +20,6 @@ active: projects
 
 [**Exploring Altair for Data Visualization**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Altair_updated.ipynb)
 
-[**Data Wrangling in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Data_Wrangling.ipynb)
-
-[**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/Recce/blob/master/Imputation.ipynb)
-
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
 [**Social Network Analysis**](/_posts/2020-01-01-sna.md)
