@@ -4,11 +4,11 @@ title: About me
 active: about
 ---
 
-<p><h1>今日は hello</h1></p>
+<p><h1>Home</h1></p>
 
 ___
 
-Welcome to the personal website of Ahsan Anis 
+Welcome to my website 
 
 <iframe src="//weheartit.com/widget/entry/304059512/" style="width:500px;height:453px" frameborder="0"></iframe>
 
