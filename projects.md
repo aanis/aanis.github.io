@@ -20,7 +20,7 @@ active: projects
 
 ### BI & Data Visualization
 
-[**Explore Kaggle Datasets [Pandas, Matplotlib and Seaborn]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
+[**Explore Kaggle Datasets [Pandas, Matplotlib, Seaborn]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
 
 [**Explore Kaggle Datasets [Altair]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
 
@@ -28,7 +28,7 @@ active: projects
 
 ### Data Analysis
 
-[**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
+[**Twitter Sentiment Analysis of Australian Fires [Tweepy, NLTK, NetworkX, TextBlob]**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
