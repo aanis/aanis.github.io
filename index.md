@@ -7,8 +7,7 @@ active: about
 <p><h1>Home</h1></p>
 
 
-
-<iframe src="//weheartit.com/widget/entry/304059512/?" style="width:800px;height:625px" frameborder="0"></iframe>
+![]https://cdn-images-1.medium.com/max/800/1*J706rv3YJ_i98cU07Wjz8A.gif
 
 
 
