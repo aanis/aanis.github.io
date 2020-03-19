@@ -12,6 +12,16 @@ active: tutorial
 
 [**Imputation in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Imputation%20%281%29.ipynb)
 
+### AI & Machine Learning Tutorial
+
+[**Use XGBoost on PIMA Indians Diabetes Database [Regression and Classification]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
+
+### BI & Data Visualization Tutorial
+
+[**Explore Kaggle Datasets With Pandas, Matplotlib and Seaborn**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
+
+[**How to Visualize Data With Altair**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
+
 ### Data Science Dummies Guide Series
 
 [**A dummies guide to data normalization**](/_posts/2019-01-01-dummy-data.md)
