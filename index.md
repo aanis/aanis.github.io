@@ -8,7 +8,7 @@ active: about
 
 ___
 
-<iframe src="//weheartit.com/widget/entry/304059512/" style="width:800px;height:800px" frameborder="0"></iframe>
+<iframe src="//weheartit.com/widget/entry/304059512/" style="width:800px;height:687px" frameborder="0"></iframe>
 
 
 
