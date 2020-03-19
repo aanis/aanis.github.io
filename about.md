@@ -13,4 +13,4 @@ of metal music and is fond of stoicism.
 
 If you can't find him in front of a computer he is either at the gym or the dog park. 
 
-p.s. If he sees a mountain, he will try to climb it. 
+If he sees a mountain, he will try to climb it. 
