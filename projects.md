@@ -14,9 +14,9 @@ active: projects
 
 [**Generate Text Using OpenAI GPT-2 [Large 774M Model]**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/GPT_2.ipynb)
 
-[**Object Detection With DarkNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
+[**YOLO: Real-Time Object Detection [DarkNet]**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Object_detection.ipynb)
 
-[**Nude Image Classifier With NudeNet**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
+[**Neural Nets for Nudity Detection & Censoring [NudeNet]**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Nude_classifier.ipynb)
 
 ### BI & Data Visualization
 
