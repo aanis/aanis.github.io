@@ -20,7 +20,7 @@ active: tutorial
 
 [**Explore Kaggle Datasets With Pandas, Matplotlib and Seaborn**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
 
-[**How to Visualize Data With Altair**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
+[**Explore Kaggle Datasets With With Altair**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
 
 ### Data Science Dummies Guide Series
 
