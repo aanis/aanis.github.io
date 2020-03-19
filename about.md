@@ -12,4 +12,4 @@ He is a science fiction enthusiast, a cinephile, a connoisseur
 of metal music and likes stoic philosophy. If you can't find him
 in front of a computer he is either at the gym or the dog park. 
 
-p.s. If he sees a mountain, he will try to climb it 
+p.s. If he sees a mountain, he will try to climb it. 
