@@ -14,7 +14,7 @@ active: tutorial
 
 ### AI & Machine Learning Tutorial
 
-[**Use XGBoost on PIMA Indians Diabetes Database [Regression and Classification]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
+[**Use XGBoost on PIMA Indians Diabetes Database [Regression & Classification]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
 
 ### BI & Data Visualization Tutorial
 
