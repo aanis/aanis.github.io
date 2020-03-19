@@ -9,7 +9,7 @@ active: about
 Ahsan enjoys writing, coding and tweeting aphorisms.
 
 He is a science fiction enthusiast, a cinephile, a connoisseur
-of metal music and is fond of stoicism. 
+of rock music and is fond of stoicism. 
 
 If you can't find him in front of a computer he is either at the gym or the dog park. 
 
