@@ -20,9 +20,9 @@ active: projects
 
 ### BI & Data Visualization
 
-[**Explore Kaggle Datasets With Pandas, Matplotlib and Seaborn**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
+[**Explore Kaggle Datasets [Pandas, Matplotlib and Seaborn]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
 
-[**Explore Kaggle Datasets With With Altair**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
+[**Explore Kaggle Datasets [Altair]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
 
 [**World Bank Big Data Project [Tableau]**](/_posts/2000-01-01-bank.md)
 
