@@ -28,7 +28,7 @@ active: projects
 
 ### Data Analysis
 
-[**Twitter Sentiment Analysis of Australian Fires [Tweepy, NLTK, NetworkX, TextBlob]**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
+[**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
 
 [**Crime Prediction System**](/_posts/2020-01-01-cis.md)
 
