@@ -12,26 +12,16 @@ active: tutorial
 
 [**Imputation in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Imputation%20%281%29.ipynb)
 
-### AI & Machine Learning Tutorial
-
-[**Use XGBoost on PIMA Indians Diabetes Database [Regression & Classification]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
-
-### BI & Data Visualization Tutorial
-
-[**Explore Kaggle Datasets With Pandas, Matplotlib and Seaborn**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
-
-[**Explore Kaggle Datasets With With Altair**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
-
 ### Data Science Dummies Guide Series
 
-[**A dummies guide to data normalization**](/_posts/2019-01-01-dummy-data.md)
+[**A Dummies Guide to Data Normalization**](/_posts/2019-01-01-dummy-data.md)
 
-[**A dummies guide to gradient descent and backpropagation**](/_posts/2019-01-01-dummy-grad.md)
+[**A Dummies Guide to Gradient Descent & Backpropagation**](/_posts/2019-01-01-dummy-grad.md)
 
-[**A dummies guide to the math of AI**](/_posts/2019-01-01-dummy-math.md)
+[**A Dummies Guide to the Math of AI**](/_posts/2019-01-01-dummy-math.md)
 
-[**A dummies guide to machine learning**](/_posts/2019-01-01-dummy-ml.md)
+[**A Dummies Guide to Machine Learning**](/_posts/2019-01-01-dummy-ml.md)
 
-[**A dummies guide to python**](/_posts/2019-01-01-dummy-python.md)
+[**A Dummies Guide to Python**](/_posts/2019-01-01-dummy-python.md)
 
-[**A dummies guide to neural net**](/_posts/2019-01-01-neural-net.md)
+[**A Dummies Guide to Neural Nets**](/_posts/2019-01-01-neural-net.md)
