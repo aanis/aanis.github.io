@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About me
-active: about
+title: Home
+active: home
 ---
 
 <p><h1>Home</h1></p>
