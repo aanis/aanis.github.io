@@ -2,7 +2,7 @@
 title: "A dummies guide to data normalization"
 layout: post
 date: 2019-01-01
-tags: announcement
+tags: data normalization
 ---
 
 
