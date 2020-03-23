@@ -2,7 +2,7 @@
 title: "The strange case of Herbert’s invisibility"
 layout: post
 date: 2019-01-01
-tags: announcement
+tags: fiction, invisible
 ---
 
 
