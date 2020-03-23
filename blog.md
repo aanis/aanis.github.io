@@ -4,6 +4,8 @@ title: Blog
 active: blog
 ---
 
+___
+
 ### Data Science & Artificial Intelligence
 
 [**Complete AI guide with use cases**](/_posts/2018-08-02-ai-guide.md)
