@@ -2,7 +2,7 @@
 title: "Can you see your entire life from a higher dimension?"
 layout: post
 date: 2019-01-01
-tags: announcement
+tags: dimension, space, science, life, universe
 ---
 
 
