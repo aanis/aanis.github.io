@@ -2,7 +2,7 @@
 title: "The future of technology"
 layout: post
 date: 2018-11-26
-tags: future
+tags: future, tech
 active: blog
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*iyLZZaeea8i5HONiIDjhig.jpeg)
