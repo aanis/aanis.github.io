@@ -2,7 +2,7 @@
 title: "Why Are We Hypocrites?"
 layout: post
 date: 2019-01-01
-tags: why
+tags: why, hypocrite, hypocrisy  
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*PXdqpxHInn96ZjHEUVhZWg.png)
