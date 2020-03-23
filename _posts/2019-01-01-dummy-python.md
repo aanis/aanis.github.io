@@ -2,7 +2,7 @@
 title: "A dummies guide to python"
 layout: post
 date: 2019-01-01
-tags: announcement
+tags: dummy, guide, python, programming
 ---
 
 
