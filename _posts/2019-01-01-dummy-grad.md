@@ -2,7 +2,7 @@
 title: "A dummies guide to gradient descent and backpropagation"
 layout: post
 date: 2019-01-01
-tags: AI
+tags: AI, gradient descent, backpropagation
 ---
 
 
