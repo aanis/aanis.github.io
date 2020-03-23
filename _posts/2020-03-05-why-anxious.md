@@ -2,7 +2,7 @@
 title: "Why are we anxious?"
 layout: post
 date: 2020-03-05
-tags: announcement
+tags: why, anxious, anxiety
 active: blog
 
 ---
