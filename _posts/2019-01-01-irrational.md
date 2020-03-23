@@ -2,7 +2,7 @@
 title: "Why Are We Irrational?"
 layout: post
 date: 2019-01-01
-tags: why
+tags: why, irrational, irrationality
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*JW7ZewTmVbYRMfD3yiTj8g.jpeg)
