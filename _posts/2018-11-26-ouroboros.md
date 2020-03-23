@@ -2,7 +2,7 @@
 title: "The Ouroboros"
 layout: post
 date: 2018-11-26
-tags: announcement
+tags: ouroboros, philosophy
 active: blog
 ---
 
