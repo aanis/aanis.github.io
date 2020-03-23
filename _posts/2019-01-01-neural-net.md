@@ -2,7 +2,7 @@
 title: "A dummies guide to neural net"
 layout: post
 date: 2019-01-01
-tags: announcement
+tags: neural net, dummy, guide
 ---
 
 
