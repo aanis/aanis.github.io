@@ -23,6 +23,8 @@ ___
 
 [**COVID-19 Worldwide Cases Jan-March 2020**](/_posts/2000-01-01-covid.md)
 
+[**COVID-19 Growing or Slowing Down?**](/_posts/2020-01-01-covgrowth.md)
+
 [**Explore Kaggle Datasets [Pandas, Matplotlib, Seaborn]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
 
 [**Explore Kaggle Datasets [Altair]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
