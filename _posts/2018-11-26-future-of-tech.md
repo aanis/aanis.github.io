@@ -26,7 +26,7 @@ Moore’s law famously states that the number of transistors in a dense integrat
 circuit doubles about every two years. Similarly I contend the following:
 
 > As technological growth becomes exponential the time period between discoveries
-> become logarithmic.
+> accelerate.
 
 The current tech landscape is dominated by a monopoly of powerful companies like
 Google, Facebook, Amazon and Apple. But just as technological breakthroughs
