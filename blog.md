@@ -58,8 +58,6 @@ ___
 
 ###  Opinion
 
-[**UFOs: A Scientific Inquiry**](/_posts/2000-01-01-ufo.md)
-
 [**Rat in a cage**](/_posts/2018-11-26-rat.md)
 
 [**Pakistan: The story of a rapidly failing state**](/_posts/2019-01-01-pakistan.md)
