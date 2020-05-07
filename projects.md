@@ -5,7 +5,7 @@ active: projects
 ---
 ___
 
-**Note:** These are **side projects** please see **download resume** for professional projects.
+**Note:** These are **side projects** please **download resume** for professional projects.
 
 ### AI, Machine Learning & Deep Learning
 
