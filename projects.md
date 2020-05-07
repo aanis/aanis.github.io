@@ -5,6 +5,8 @@ active: projects
 ---
 ___
 
+Note: These are NOT my professional work projects just side projects.
+
 ### AI, Machine Learning & Deep Learning
 
 [**PIMA Indians Diabetes Database [XGBoost]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
