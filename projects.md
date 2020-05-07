@@ -31,16 +31,10 @@ ___
 
 [**Explore Kaggle Datasets [Altair]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
 
-[**World Bank Big Data Project [Tableau]**](/_posts/2000-01-01-bank.md)
-
 ### Data Analysis
 
 [**Time Series Forecasting of Coronavirus in USA [Facebook Prophet]**](https://nbviewer.jupyter.org/github/aanis/COVID-19-USA-Forecasting/blob/master/Coronavirus_Forecasting_for_USA.ipynb)
 
 [**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
-
-[**Crime Prediction System**](/_posts/2020-01-01-cis.md)
-
-[**Social Network Analysis**](/_posts/2020-01-01-sna.md)
 
 
