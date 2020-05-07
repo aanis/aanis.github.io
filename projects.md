@@ -5,7 +5,7 @@ active: projects
 ---
 ___
 
-**Note: These are NOT my professional work projects just side projects.**
+**Note: These are NOT my professional work projects just side projects. Please see Resume for professional work**
 
 ### AI, Machine Learning & Deep Learning
 
