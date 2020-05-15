@@ -39,6 +39,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 
 gems:
   - jekyll-feed
