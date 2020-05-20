@@ -44,39 +44,10 @@ ___
 
 [**The Ouroboros**](/_posts/2018-11-26-ouroboros.md)
 
-### The Why Series
-
-[**Why are we afraid?**](/_posts/2018-11-26-why-fear.md)
-
-[**Why are we hypocrites?**](/_posts/2019-01-01-hypocrite.md)
-
-[**Why are we irrational?**](/_posts/2019-01-01-irrational.md)
-
-[**Whe are we stressed?**](_posts/2019-01-01-stress.md)
-
-[**Why are we anxious?**](/_posts/2020-03-05-why-anxious.md)
-
-###  Opinion
-
-[**Rat in a cage**](/_posts/2018-11-26-rat.md)
-
-[**Pakistan: The story of a rapidly failing state**](/_posts/2019-01-01-pakistan.md)
-
 [**A short guide to solving problems**](/_posts/2017-04-24-problems.md)
 
-###  Blockchain
 
-[**Why blockchain is the best voting solution for overseas Pakistanis**](/_posts/2018-01-01-blockchain.md)
 
-### Poetry
-
-[**four-seven-a-a**](/_posts/2000-01-01-poem-47aa.md)
-
-[**desert**](/_posts/2000-01-01-poem-desert.md)
-
-[**joshua tree**](/_posts/2000-01-01-poem-josh.md)
-
-[**a girl**](/_posts/2000-01-01-poem-girl.md)
 
  
 
