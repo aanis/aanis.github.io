@@ -7,8 +7,6 @@ ___
 
 **Note:** These are **side projects** please **download resume** for professional projects.
 
-### AI, Machine Learning & Deep Learning
-
 [**PIMA Indians Diabetes Database [XGBoost]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
 
 [**Diabetes Prediction With Deep Learning [ANN]**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Diabetes.ipynb)
@@ -21,8 +19,6 @@ ___
 
 [**Time Series Forecasting of Coronavirus in USA [Facebook Prophet]**](https://nbviewer.jupyter.org/github/aanis/COVID-19-USA-Forecasting/blob/master/Coronavirus_Forecasting_for_USA.ipynb)
 
-### BI & Data Visualization
-
 [**Explore Kaggle Datasets [Pandas, Matplotlib, Seaborn]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
 
 [**Explore Kaggle Datasets [Altair]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
@@ -31,15 +27,11 @@ ___
 
 [**COVID-19 Growing or Slowing Down?**](/_posts/2020-01-01-covgrowth.md)
 
-### Python 3.0  
-
 [**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
 
 [**Data Wrangling in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Data_Wrangling%20%281%29.ipynb)
 
 [**Imputation in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Imputation%20%281%29.ipynb)
-
-### Data Science Dummies Guide Series
 
 [**A Dummies Guide to Data Normalization**](/_posts/2019-01-01-dummy-data.md)
 
