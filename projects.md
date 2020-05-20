@@ -21,8 +21,6 @@ ___
 
 [**Time Series Forecasting of Coronavirus in USA [Facebook Prophet]**](https://nbviewer.jupyter.org/github/aanis/COVID-19-USA-Forecasting/blob/master/Coronavirus_Forecasting_for_USA.ipynb)
 
-[**Twitter Sentiment Analysis of Australian Fires**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Twitter.ipynb)
-
 ### BI & Data Visualization
 
 [**Explore Kaggle Datasets [Pandas, Matplotlib, Seaborn]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
