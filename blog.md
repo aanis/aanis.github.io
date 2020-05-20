@@ -6,8 +6,6 @@ active: blog
 
 ___
 
-### Data Science & Artificial Intelligence
-
 [**Complete AI guide with use cases**](/_posts/2018-08-02-ai-guide.md)
 
 [**Complete zero to hero guide to artificial intelligence**](/_posts/2000-01-01-ai-az.md)
@@ -24,19 +22,13 @@ ___
 
 [**A list of the best YouTube channels for data science**](/_posts/2000-01-01-youtube.md)
 
-### Science & Physics
-
 [**Can a single decision alter the history of the universe?**](/_posts/2019-01-01-decision.md)
 
 [**Can you see your entire life from a higher dimension?**](/_posts/2019-01-01-dimension.md)
 
 [**Is there a limit to science?**](/_posts/2019-01-01-science.md)
 
-### Technology
-
 [**The future of technology**](/_posts/2018-11-26-future-of-tech.md)
-
-### Philosophy
 
 [**A thought experiment on order and chaos**](/_posts/2019-01-01-chaos.md)
 
