@@ -68,16 +68,16 @@ which is 5.3
 
     5.3 + (-2.0) =  3.3
 
-After that we simply add the bias which is -2* *and we are left with the value**
-**of **Y **which is *3.3*
+After that we simply add the bias which is -2 and we are left with the value
+of **Y** which is 3.3
 
-This value (**Y)** is then passed through an activation function.
+This value **(Y)** is then passed through an activation function.
 
 *****
 
 ### **Why do we use an activation function?**
 
-Our **Y **value has no bounds it could be infinite. Hence, we need to pass it
+Our **Y** value has no bounds it could be infinite. Hence, we need to pass it
 through an activation function to give it a restricted finite value so our
 neural net can make a prediction.
 
@@ -113,21 +113,21 @@ need to know the types of problems we can solve and in which category your
 problem falls under.
 
 Machine Learning falls under the following 5 categories: 
-1. Supervised learning
-2. Unsupervised learning
-3. Semi-supervised learning
-4. Reinforcement learning 
+1. Supervised Learning
+2. Unsupervised Learning
+3. Semi-supervised Learning
+4. Reinforcement Learning 
 5. Recommendation Engine
 
-In **Supervised learning** we have labelled data. If we have categorical data we
-can use **classification** algorithms if the data is continuous we are better
-off with **regression**. Anomalies fall under anomaly detection.
+In **Supervised Learning** we have labelled data. If we have categorical data we
+can use **Classification** algorithms if the data is continuous we are better
+off with **Regression**. Anomalies fall under anomaly detection.
 
 In **Unsupervised Learning** our data is non-labelled and we need to make sense
-of this data by putting them in clusters i.e. **clustering** or reduce the
-dimensions to find the meaningful ones using **association** rules.
+of this data by putting them in clusters i.e. **Clustering** or reduce the
+dimensions to find the meaningful ones using **Association** rules.
 
-**Semi-supervised** Learning contains a mix of labelled and unlabeled data.
+**Semi-Supervised** Learning contains a mix of labelled and unlabeled data.
 
 In **Reinforcement Learning** we could have both types of data. The model takes
 an action to maximize the reward function in an environment.
@@ -167,7 +167,7 @@ classification errors to make accurate predictions.
 
 ## Math of Machine Learning
 
-Before you begin your journey in Machine Learning(ML) and Deep Learning (DL) you
+Before you begin your journey in Machine Learning (ML) and Deep Learning (DL) you
 should at least know the basic math behind what you will be doing. Although you
 can still dive right into algorithms and implementation of code you will have a
 severe handicap against your data science peers.
@@ -893,7 +893,7 @@ We will be using Python 3 (the latest iteration)
 
 Deploying a neural network is an arduous process. One of the most important
 stages in developing a neural net is to first normalize the data. In this guide,
-I will explain **why is normalization important,and finally how to
+I will explain **why is normalization important, and finally how to
 normalize your data.**
 
 *****
@@ -994,7 +994,7 @@ If we have non-binary categorical data we can used Manhattan encoding which uses
 
 *Muslim as a scalar of* **[ 1 0 0 ]**
 
-*Hindu as a scalar* ***[ 0 1 0 ]**
+*Hindu as a scalar* **[ 0 1 0 ]**
 
 *Christian as a scalar* **[ 0 0 1 ]**
 
