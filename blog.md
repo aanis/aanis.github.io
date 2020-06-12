@@ -6,6 +6,8 @@ active: blog
 
 ___
 
+[**A Complete Guide to Machine Learning**](/_posts/2020-01-01-ai-writeup.md)
+
 [**Complete AI guide with use cases**](/_posts/2018-08-02-ai-guide.md)
 
 [**Complete zero to hero guide to artificial intelligence**](/_posts/2000-01-01-ai-az.md)
