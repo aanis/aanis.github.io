@@ -1,7 +1,7 @@
 ---
 title: "A Complete Guide to Machine Learning"
 layout: post
-date: 2019-01-01
+date: 2020-01-01
 tags: ai, machine learning, deep learning
 ---
 
