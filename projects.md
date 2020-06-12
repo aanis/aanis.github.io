@@ -39,7 +39,7 @@ ___
 
 [**Python Essentials**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
 
-[**Data Wrangling in Python*](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Data_Wrangling%20%281%29.ipynb)
+[**Data Wrangling in Python**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Data_Wrangling%20%281%29.ipynb)
 
 [**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Imputation%20%281%29.ipynb)
 
