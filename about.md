@@ -12,6 +12,6 @@ Ahsan is a Data Scientist with expertise in big data for descriptive and predict
 
 He maintains a strong personal, professional and academic interest in artificial intelligence research and real-world application.
 
-He has a Bachelor in Economics from Indiana University and a Masters in Information Sytems with a concentration in Business Analytics from California State University, Fullerton. 
+He has a Bachelor in Economics from Indiana University and a Masters in Information Sytems with a specialization in Business Analytics from California State University, Fullerton. 
 
  
