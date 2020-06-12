@@ -31,9 +31,9 @@ ___
 
 [**Explore Kaggle Datasets [Altair]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
 
-[**COVID-19 Worldwide Cases Jan-March 2020**](/_posts/2000-01-01-covid.md)
+[**COVID-19 Worldwide Cases Jan-March 2020 [Flourish]**](/_posts/2000-01-01-covid.md)
 
-[**COVID-19 Growing or Slowing Down?**](/_posts/2020-01-01-covgrowth.md)
+[**COVID-19 Growing or Slowing Down? [Flourish]**](/_posts/2020-01-01-covgrowth.md)
 
 ### Python for Data Science
 
@@ -42,6 +42,7 @@ ___
 [**Data Wrangling in Python**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Data_Wrangling%20%281%29.ipynb)
 
 [**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Imputation%20%281%29.ipynb)
+
 
 
 
