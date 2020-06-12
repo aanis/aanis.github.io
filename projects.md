@@ -7,6 +7,8 @@ ___
 
 **Note:** These are **side projects** please **download resume** for professional projects.
 
+### Machine Learning
+
 [**PIMA Indians Diabetes Database [XGBoost]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/XGBoost%20%283%29.ipynb)
 
 [**Diabetes Prediction With Deep Learning [ANN]**](https://nbviewer.jupyter.org/github/lahorekid/cnn/blob/master/Diabetes.ipynb)
@@ -19,6 +21,12 @@ ___
 
 [**Time Series Forecasting of Coronavirus in USA [Facebook Prophet]**](https://nbviewer.jupyter.org/github/aanis/COVID-19-USA-Forecasting/blob/master/Coronavirus_Forecasting_for_USA.ipynb)
 
+[**Bitcoin Price Prediction [LSTM]**](https://nbviewer.jupyter.org/github/aanis/Projects-.ipynb-3/blob/master/LSTM.ipynb)
+
+### Business Intelligence & Data Analysis
+
+[**Sentiment Analysis on Twitter Data [Pandas, Matplotlin, Tweepy, NLTK]**](https://nbviewer.jupyter.org/github/aanis/twitter/blob/master/Twitter.ipynb)
+
 [**Explore Kaggle Datasets [Pandas, Matplotlib, Seaborn]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Explore_Kaggle_Datasets_Using_Pandas%2C_Matplotlib_and_Seaborn.ipynb)
 
 [**Explore Kaggle Datasets [Altair]**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Altair_updated%20%281%29.ipynb)
@@ -27,11 +35,13 @@ ___
 
 [**COVID-19 Growing or Slowing Down?**](/_posts/2020-01-01-covgrowth.md)
 
-[**A Crash Course in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
+### Python for Data Science
 
-[**Data Wrangling in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Data_Wrangling%20%281%29.ipynb)
+[**Python Essentials**](https://nbviewer.jupyter.org/github/lahorekid/ufo/blob/master/Python_Course.ipynb)
 
-[**Imputation in Python 3.0**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Imputation%20%281%29.ipynb)
+[**Data Wrangling in Python*](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Data_Wrangling%20%281%29.ipynb)
+
+[**Imputation in Python**](https://nbviewer.jupyter.org/github/lahorekid/nbviewer1/blob/master/Imputation%20%281%29.ipynb)
 
 
 
