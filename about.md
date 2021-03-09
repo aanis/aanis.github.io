@@ -8,7 +8,7 @@ active: about
 
 ___
 
-Ahsan is a Data Scientist with expertise in big data for descriptive and predictive analytics. He has worked on projects for institutions like the World Bank, Microsoft, the public and private sector. 
+Ahsan has expertise in project management, business analytics and data science. He has worked on projects for institutions like the World Bank, Microsoft, American Airlines, RBC, WHO, in the public and private sector. 
 
 He maintains a strong personal, professional and academic interest in artificial intelligence research and real-world application.
 
